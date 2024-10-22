@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"question_block_coin_vertical_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"question_block_coin_vertical_collision",
+  "parent":{
+    "name":"Mario",
+    "path":"folders/Scripts/Collision/Mario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

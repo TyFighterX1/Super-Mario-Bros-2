@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"mario_lose_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"mario_lose_state",
+  "parent":{
+    "name":"States",
+    "path":"folders/Scripts/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

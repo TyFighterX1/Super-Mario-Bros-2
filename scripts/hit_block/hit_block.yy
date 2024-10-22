@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"hit_block",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"hit_block",
+  "parent":{
+    "name":"Mario",
+    "path":"folders/Scripts/Collision/Mario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

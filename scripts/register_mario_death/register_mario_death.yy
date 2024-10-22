@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"register_mario_death",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"register_mario_death",
+  "parent":{
+    "name":"Mario",
+    "path":"folders/Scripts/Mario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
